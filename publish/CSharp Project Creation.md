@@ -1,3 +1,10 @@
+---
+title: C# in Linux VS code
+excerpt: All approach need to use to programmin C# in VS UBUNTU
+date: 2026-08-13
+author: SE
+---
+
 ## Installation
 	sudo apt-get update
 	sudo apt-get install -y dotnet-sdk-10.0
