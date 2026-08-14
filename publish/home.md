@@ -2,18 +2,16 @@
 title: "Bitta Notebook Diary"
 excerpt: "notebook Github repo for my ubuntu obsidian"
 ---
-Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
-- Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
-- URLs are based on folder structure
-- Backlinks can be added outside of the markdown files (using the [PreviewLink](https://github.com/matthewwong525/linked-blog-starter/blob/main/components/misc/preview-link.tsx) component)
-- Full-text search
+# Bitta Notebook
 
-## [[how-linked-blog-starter-works|How it works]]
-![[how-linked-blog-starter-works]]
+![Header image](publish/attachments/Header.png "Bitta never looks like this. She's more beautiful.")
 
-## Getting Started
-### [[home|Demo]]
+- This is my notebook for taking notes in Ubuntu and on-Work notes for my personal usages.
 
-This is my Bitta Version on Data
+## List of Existed Files
+### [[home|Home]]
+### [[remote-bitta/publish/linux_softwares|linux_softwares]]
+### [[remote-bitta/publish/linux_commands|linux_commands]]
+### [[remote-bitta/publish/CSharp Project Creation|CSharp Project Creation]]
 
 
