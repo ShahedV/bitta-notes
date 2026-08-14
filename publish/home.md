@@ -4,7 +4,7 @@ excerpt: "notebook Github repo for my ubuntu obsidian"
 ---
 # Bitta Notebook
 
-![Header image](attachments/Header.png "Bitta never looks like this. She's more beautiful.")
+![[Header.png]]
 
 - This is my notebook for taking notes in Ubuntu and on-Work notes for my personal usages.
 
